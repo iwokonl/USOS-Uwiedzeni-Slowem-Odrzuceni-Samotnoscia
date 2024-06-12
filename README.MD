@@ -1,3 +1,3 @@
 Readme w budowie. Opis aplikacji.
 
-Nowsza wersja usosa dla studentów z nowymi funkcjonalnościami.
+Nowsza wersja aplikacji dla studentów z nowymi funkcjonalnościami.
